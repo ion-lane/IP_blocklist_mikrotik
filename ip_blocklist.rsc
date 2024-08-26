@@ -4600,7 +4600,6 @@ add list=BLOCKLIST comment=talosintelligence address=185.156.174.27
 add list=BLOCKLIST comment=talosintelligence address=116.50.219.125
 add list=BLOCKLIST comment=talosintelligence address=41.97.65.51
 add list=BLOCKLIST comment=talosintelligence address=134.35.9.209
-add list=BLOCKLIST comment=talosintelligence address=45.78.7.252
 add list=BLOCKLIST comment=talosintelligence address=212.33.202.4
 add list=BLOCKLIST comment=talosintelligence address=196.20.68.81
 add list=BLOCKLIST comment=talosintelligence address=181.2.151.236
