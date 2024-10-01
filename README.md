@@ -20,9 +20,11 @@ https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists/blacklis
 Script on Mikrotik:
 
 ``
-/tool fetch url="https://raw.githubusercontent.com/ion-lane/IP_blocklist_mikrotik/main/ip_blocklist.rsc" mode=https
+/tool fetch url="https://raw.githubusercontent.com/ion-lane/IP_blocklist_mikrotik/main/ip_blocklist.rsc" mode=https dst-path=usb1
 ``
 
 ``
-/ip firewall address-list remove [find where list="BLOCKLIST"]; /import file-name=ip_blocklist.rsc; /file remove ip_blocklist.rsc
+/ip firewall address-list remove [find where list="BLOCKLIST"]; /import file-name=usb1/ip_blocklist.rsc; /file remove usb1/ip_blocklist.rsc
 ``
+
+! I recommend using a USB flash drive ``dst-path=usb1``  to download lists daily.
