@@ -14,6 +14,10 @@ https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/6.txt
 
 ToDo:
 
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+
+http://www.talosintelligence.com/documents/ip-blacklist
+
 https://raw.githubusercontent.com/C24Be/AS_Network_List/main/blacklists/blacklist.txt
 
 
