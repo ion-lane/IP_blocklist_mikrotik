@@ -5,7 +5,6 @@ add list=BLOCKLIST address=101.101.97.11
 add list=BLOCKLIST address=101.109.202.20
 add list=BLOCKLIST address=101.126.20.192
 add list=BLOCKLIST address=101.126.21.179
-add list=BLOCKLIST address=101.126.31.21
 add list=BLOCKLIST address=101.126.45.226
 add list=BLOCKLIST address=101.126.5.109
 add list=BLOCKLIST address=101.126.54.66
@@ -624,6 +623,7 @@ add list=BLOCKLIST address=109.205.186.118
 add list=BLOCKLIST address=109.205.186.32
 add list=BLOCKLIST address=109.205.186.67
 add list=BLOCKLIST address=109.226.57.52
+add list=BLOCKLIST address=109.228.35.118
 add list=BLOCKLIST address=109.228.39.245
 add list=BLOCKLIST address=109.228.57.230
 add list=BLOCKLIST address=109.232.223.115
@@ -765,6 +765,7 @@ add list=BLOCKLIST address=112.216.108.62
 add list=BLOCKLIST address=1.12.232.221
 add list=BLOCKLIST address=1.123.136.116
 add list=BLOCKLIST address=112.36.21.203
+add list=BLOCKLIST address=1.12.48.131
 add list=BLOCKLIST address=112.5.144.253
 add list=BLOCKLIST address=1.12.55.42
 add list=BLOCKLIST address=112.64.161.58
@@ -4279,6 +4280,7 @@ add list=BLOCKLIST address=182.43.65.168
 add list=BLOCKLIST address=182.43.65.17
 add list=BLOCKLIST address=182.43.66.167
 add list=BLOCKLIST address=182.43.68.38
+add list=BLOCKLIST address=182.43.69.179
 add list=BLOCKLIST address=182.43.69.247
 add list=BLOCKLIST address=182.43.69.56
 add list=BLOCKLIST address=182.43.70.186
@@ -4765,7 +4767,6 @@ add list=BLOCKLIST address=187.95.162.21
 add list=BLOCKLIST address=188.0.130.250
 add list=BLOCKLIST address=188.120.246.197
 add list=BLOCKLIST address=188.126.81.155
-add list=BLOCKLIST address=188.126.89.113
 add list=BLOCKLIST address=188.128.82.178
 add list=BLOCKLIST address=188.132.146.172
 add list=BLOCKLIST address=188.134.83.204
@@ -4796,6 +4797,7 @@ add list=BLOCKLIST address=188.166.150.245
 add list=BLOCKLIST address=188.166.161.55
 add list=BLOCKLIST address=188.166.172.1
 add list=BLOCKLIST address=188.166.178.123
+add list=BLOCKLIST address=188.166.188.134
 add list=BLOCKLIST address=188.166.191.1
 add list=BLOCKLIST address=188.166.211.7
 add list=BLOCKLIST address=188.166.223.5
@@ -5687,7 +5689,6 @@ add list=BLOCKLIST address=198.104.159.65
 add list=BLOCKLIST address=198.105.124.189
 add list=BLOCKLIST address=198.105.193.19
 add list=BLOCKLIST address=198.1.115.107
-add list=BLOCKLIST address=198.12.107.228
 add list=BLOCKLIST address=198.12.85.199
 add list=BLOCKLIST address=198.12.86.4
 add list=BLOCKLIST address=198.12.92.218
@@ -9775,6 +9776,7 @@ add list=BLOCKLIST address=41.242.115.84
 add list=BLOCKLIST address=41.249.251.2
 add list=BLOCKLIST address=41.33.197.132
 add list=BLOCKLIST address=41.33.58.100
+add list=BLOCKLIST address=41.57.124.54
 add list=BLOCKLIST address=41.57.69.6
 add list=BLOCKLIST address=41.59.57.162
 add list=BLOCKLIST address=41.59.86.232
@@ -10265,7 +10267,6 @@ add list=BLOCKLIST address=4.78.243.33
 add list=BLOCKLIST address=4.78.243.34
 add list=BLOCKLIST address=47.83.6.82
 add list=BLOCKLIST address=47.84.79.4
-add list=BLOCKLIST address=47.84.93.37
 add list=BLOCKLIST address=47.89.188.115
 add list=BLOCKLIST address=47.89.230.62
 add list=BLOCKLIST address=47.90.245.130
@@ -10559,7 +10560,6 @@ add list=BLOCKLIST address=5.202.101.3
 add list=BLOCKLIST address=5.202.9.106
 add list=BLOCKLIST address=52.11.146.237
 add list=BLOCKLIST address=5.2.124.162
-add list=BLOCKLIST address=52.131.210.53
 add list=BLOCKLIST address=52.14.170.74
 add list=BLOCKLIST address=52.160.67.47
 add list=BLOCKLIST address=52.183.128.237
@@ -14049,6 +14049,7 @@ add list=BLOCKLIST address=79.126.114.218
 add list=BLOCKLIST address=79.126.115.110
 add list=BLOCKLIST address=79.126.71.62
 add list=BLOCKLIST address=79.127.113.235
+add list=BLOCKLIST address=79.127.134.85
 add list=BLOCKLIST address=79.127.92.11
 add list=BLOCKLIST address=79.136.112.202
 add list=BLOCKLIST address=79.136.112.203
@@ -14167,7 +14168,6 @@ add list=BLOCKLIST address=80.48.16.148
 add list=BLOCKLIST address=80.48.16.81
 add list=BLOCKLIST address=80.63.9.153
 add list=BLOCKLIST address=80.66.75.106
-add list=BLOCKLIST address=80.66.75.57
 add list=BLOCKLIST address=80.67.16.221
 add list=BLOCKLIST address=80.67.167.81
 add list=BLOCKLIST address=80.67.172.162
@@ -15593,6 +15593,7 @@ add list=BLOCKLIST address=92.53.123.166
 add list=BLOCKLIST address=92.53.96.106
 add list=BLOCKLIST address=92.53.96.137
 add list=BLOCKLIST address=92.53.96.139
+add list=BLOCKLIST address=92.53.96.18
 add list=BLOCKLIST address=92.53.96.211
 add list=BLOCKLIST address=92.53.96.214
 add list=BLOCKLIST address=92.53.96.222
