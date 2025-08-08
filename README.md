@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/5.txt
 
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 
+https://threatfox.abuse.ch/export/json/ip-port/recent/
 
 
 Script on Mikrotik:
