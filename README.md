@@ -12,6 +12,10 @@ https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 
 https://threatfox.abuse.ch/export/json/ip-port/recent/
 
+https://lists.blocklist.de/lists/strongips.txt
+
+https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
+
 
 Script on Mikrotik:
 
