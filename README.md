@@ -4,8 +4,6 @@ https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 
 https://blocklist.greensnow.co/greensnow.txt
 
-https://pgl.yoyo.org/adservers/iplist.php?ipformat=&showintro=0&mimetype=plaintext
-
 https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/5.txt
 
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
