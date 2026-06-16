@@ -92,6 +92,7 @@
 
 # The Shadowserver Foundation, Inc.
 216.218.206.69/32
+64.62.156.0/24
 
 # shodan
 71.6.165.200/32
