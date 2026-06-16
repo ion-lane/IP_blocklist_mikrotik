@@ -90,6 +90,9 @@
 # dnsscan.shadowserver.org
 184.105.143.133/32
 
+# The Shadowserver Foundation, Inc.
+216.218.206.69/32
+
 # shodan
 71.6.165.200/32
 
