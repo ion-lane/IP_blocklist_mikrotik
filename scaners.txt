@@ -124,3 +124,6 @@
 
 # Amarutu Technology Ltd
 5.187.35.0/24
+
+# Data Campus Limited
+45.142.195.0/24
