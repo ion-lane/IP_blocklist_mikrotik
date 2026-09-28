@@ -21,6 +21,8 @@
 45.91.64.6/32
 45.91.64.0/24
 
+# RU-SOVINTEL-MSK-Advanced-Monitoring-NET
+213.33.142.48/27
 
 ### US/EU ###
 
