@@ -147,3 +147,6 @@
 
 # PV-SL-HOSTED-Kyiv
 159.26.120.34
+
+# Secure Internet LLC
+45.74.28.0/24
